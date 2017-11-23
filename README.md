@@ -129,8 +129,7 @@ function map_range_limit(value, low1, high1, low2, high2) {
  ![](/assets/1.jpg)
  ![](/assets/3.jpg)
  
- https://www.youtube.com/watch?v=XlTKgaSSPbc&feature=youtu.be - automatic!
-[youtube](https://www.youtube.com/watch?v=XlTKgaSSPbc&feature=youtu.be)
+ https://www.youtube.com/watch?v=XlTKgaSSPbc&feature=youtu.be 
  
 
  
