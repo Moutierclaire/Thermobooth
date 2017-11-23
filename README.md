@@ -3,7 +3,7 @@
 Project directed by Claire Moutier, for the "moments of delight" of the event
 interaction 18.
 
-![](/assets/1.jpg)
+![](/assets/8.jpg)
 
 
 
