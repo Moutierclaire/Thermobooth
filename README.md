@@ -146,6 +146,10 @@ Indeed, we are already at the last stage : you have to click to take a picture o
   }
  ```
  
+ ## Picture of the object
+  ![](/assets/6.jpg)
+ ![](/assets/7.jpg)
+ 
  ## Arduino editing
  
 ![](/assets/2.jpg)
