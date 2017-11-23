@@ -129,6 +129,7 @@ function map_range_limit(value, low1, high1, low2, high2) {
  ![](/assets/1.jpg)
  ![](/assets/3.jpg)
  
+ If you want to see more, watch this short video on Youtube :
  https://www.youtube.com/watch?v=XlTKgaSSPbc&feature=youtu.be 
  
 
@@ -146,7 +147,7 @@ Indeed, we are already at the last stage : you have to click to take a picture o
  
  ## Arduino editing
  
- ### PHOTO
+![](/assets/2.jpg)
  
  ## One more things
 Congratulations, it's finish ! If you reuse this DIY, don't hesitate to share it :)
