@@ -3,8 +3,7 @@
 Project directed by Claire Moutier, for the "moments of delight" of the event
 interaction 18.
 
-### PHOTO
-![swing](/README-img/thermobooth.jpg)
+![](/assets/1.jpg)
 
 
 
