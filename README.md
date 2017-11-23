@@ -127,8 +127,7 @@ function map_range_limit(value, low1, high1, low2, high2) {
  ![](/assets/1.jpg)
  ![](/assets/3.jpg)
  
- If you want to see more, watch this short video on Youtube :
- https://www.youtube.com/watch?v=onTowLN3SAU&feature=youtu.be
+ If you want to see more, watch this short video on Youtube : https://www.youtube.com/watch?v=onTowLN3SAU&feature=youtu.be
  
  
 ## 4 - Take the picture
