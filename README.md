@@ -12,6 +12,7 @@ Thermobooth is a project that allows you to heat more or less an object using yo
 Smile and click when the filter is right for you.
     
 _**Note**_ : Here is archived only the digital/technical part of the device. It's up to you to design the object and take into account the projection space. ;)
+If you want to see the device of his globality, watch this video : 
 
 Now, it's your turn !
 
