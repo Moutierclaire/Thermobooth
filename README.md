@@ -1,18 +1,15 @@
 # Thermobooth
 
-Project directed by Claire Moutier, for the "moments of delight" of the event
-interaction 18.
+Project directed by Claire Moutier, for the "moments of delight" of the interaction 18 event.
 
 ![](/assets/8.jpg)
-
-
 
 ## The interactive device
 Thermobooth is a project that allows you to heat more or less an object using your body heat (breath, friction ...) to act on your picture. At first, the camera is blurred. As the object heats up, the image becomes deopacified and changes to warmer tones. The object contains an RGB LED as well as a temperature sensor so that the color of the light changes according to the heat produced. You must put yourself in front of the object and warm it up. 
 Smile and click when the filter is right for you.
     
 _**Note**_ : Here is archived only the digital/technical part of the device. It's up to you to design the object and take into account the projection space. ;)
-If you want to see the device of his globality, watch this video : 
+If you want to see the device of his globality, you can watch this video : 
 
 Now, it's your turn !
 
@@ -34,7 +31,6 @@ Now, it's your turn !
 * Arduino (version 1.8.4)
 * A videoprojector (or screen)
 * An HDMI cable
-
 
 ## Capture the heat 
 
