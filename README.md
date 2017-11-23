@@ -47,7 +47,8 @@ var rgb = b.pin({r: 9, g: 10, b: 11}, 'RGBLED');
 
 Then, we use the console.log function to know the real-time heat that the arduino temperature sensor receives.
 
-! [ ] (/assets/consolelog.png) 
+![](/assets/consolelog.png)
+
 
 This is what will allow us to determine a minimum and a maximum temperature. We will create three variables: a temperature variable, a minimum variable and a maximum variable. They will be named like this (you can name them differently if you want).
 These variables and values will be recalled to act on the picture.
