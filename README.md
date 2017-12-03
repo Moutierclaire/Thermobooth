@@ -64,7 +64,7 @@ _**Note**_ : Values 530 and 540 refer to a temperature range. They can be modifi
 The temperature impact on the picture. At first, the filter will be blurred. It will become in yellow tones when the object is warmed up. First you need to make a webcam variable to have access to the camera and a hue variable.
 
 
-**> To make a blur picture**, we use the function 'blur' filter like this :
+**> To make a blur picture**, we use the function css of jquery. This function allows you to act on the property css "blur" like that : 
 
 ```javascript
 $(function(){
